@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Junaid Ahmed S</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=js7861&label=Profile%20views&color=0e75b6&style=flat" alt="js7861" /> </p>
 
 - 🌱 I’m currently learning **Aws,Gcp**
 
-- 💬 Ask me about **I am Junaid Ahmed S, a dedicated and motivated engineering graduate specializing in Information Science & Engineering. With a strong foundation in Linux Administration, cloud platforms like AWS and Google Cloud, and programming languages such as Python and C++, I am passionate about leveraging technology to solve complex problems.**
+- **I am Junaid Ahmed S, a dedicated and motivated engineering graduate specializing in Information Science & Engineering. With a strong foundation in Linux Administration, cloud platforms like AWS and Google Cloud, and programming languages such as Python and C++, I am passionate about leveraging technology to solve complex problems.**
 
 - 📫 How to reach me **junaidshariff78621@gmail.com**
 
